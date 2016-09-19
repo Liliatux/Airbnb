@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #slideshow {
 	position: relative;
 	width: 640px;
@@ -42,3 +43,10 @@
 	50%, 70%		{ left: -200% }
 	75%, 95%		{ left: -300% }
 }
+=======
+.container {
+	width:100%;
+}
+
+
+>>>>>>> 759fe8bbea16c5ccfc238d508989ba07c1e1bc54
